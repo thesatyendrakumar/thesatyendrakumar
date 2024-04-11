@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Satyendra</h1>
+<h1 align="center">Hi 👋, I'm Satyendra Kumar</h1>
 <h3 align="center">Vice President | Lead Software Engineer | Utilitarian Programmer | Efficient Code Craftsman | Automation Advocate | Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesatyendrakumar&label=Profile%20views&color=0e75b6&style=flat" alt="thesatyendrakumar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/thesatyendra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesatyendra01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thesatyendrakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesatyendrakumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
