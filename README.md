@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyendra Kumar</h1>
-<h3 align="center">Vice President | Lead Software Engineer | Utilitarian Programmer | Efficient Code Craftsman | Automation Advocate | Problem Solver</h3>
+<h3 align="center">Vice President | Lead Software Engineer | Utilitarian Programmer | Efficient Code Craftsman | Automation Advocate | Problem Solver | Model Maven | Data Alchemist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesatyendrakumar&label=Profile%20views&color=0e75b6&style=flat" alt="thesatyendrakumar" /> </p>
 
